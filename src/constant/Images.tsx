@@ -14,3 +14,8 @@ export const Images = {
     person: `/img/person1.png`,
     phone:  `/img/phone.png`
 }
+
+
+export const Videos = {
+    parallexPortfolio : `video/parallex_portfolio_video.mp4`,
+}
